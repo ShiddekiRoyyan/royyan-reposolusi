@@ -3,3 +3,5 @@ rencana lain
   *tampilan
 - html
 - php
+  * php-dasar
+- python
