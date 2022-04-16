@@ -1,2 +1,4 @@
 Roy Resulusi
 - membuat data diri
+- membuat html
+- mmebuat css
